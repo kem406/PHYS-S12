@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 # aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Hi, I'm Ken. This is my webpage for PHYS-S12: Introduction to Digital Fabrication
+Hi, I'm Ken. I'm an extension student at Harvard. I like physics.
+
+This is my webpage for PHYS-S12: Introduction to Digital Fabrication
 
 Final project proposals:
 

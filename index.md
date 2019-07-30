@@ -4,8 +4,6 @@ layout: default
 
 ### 01: Introduction & Documentation
 
-**Assignment:**
-
 Create a website and sketch up an idea for a possible final project.
 
 You will use this website to document your work for the rest of the semester. You are welcome to use any tools you'd like to accomplish this, but if you don't have any previous web development experience, you'll likely want to stick with the Jekyll template we covered in class. You're encouraged to use the HTML and CSS techniques we covered in class to cutomize your site -- even better if you research new techniques and make a novel website. You can also continue to update your website styling/layout for the rest of the semester. The goal for this week is to make the site functional, i.e., that you're able to use it to host your assignments in a way that others are able to find them. Please make sure your website is up and running, including your final project idea by this Thursday.
@@ -25,8 +23,6 @@ Feel free to discuss final project ideas with the teaching staff and with each o
 
 ### 02: Basic tools, procedures, and electronics
 
-**Assignment:**
-
 - Cut pieces from two different materials and join them. Document this.
 - Add a fabricated component to a circuit, so that it does something (motion or light).
 - Use a multimeter to measure the behavior of your circuit. Document your work and learning.
@@ -34,20 +30,54 @@ Feel free to discuss final project ideas with the teaching staff and with each o
 
 ### 03: 2D Design & Cutting
 
+Create a press-fit construction kit.
+
 ### 04: Rapid Prototying
+
+Make and document a quick prototype of a possible final project. Integrate an electronic circuit into an object that you have fabricated.
 
 ### 05: Programmable Electronics
 
+Program a microcontroller to produce an output using at least one button for input. Include a conditional statement and a for loop.
+
 ### 06: 3D Design & Printing
+
+1. Design and print a small object that could not be (easily) made by subtractive methods. Discuss pros and cons of 3D printing this object rather than using other fabrication methods.
+
+2. Scan something.
+
+3. Please read the following to preview for next week:
+
+- [Sparkfun's Intro to Capacitance](https://learn.sparkfun.com/tutorials/capacitors/all)
+- [Jonathan Grinham's Capacitive Plants](http://fab.cba.mit.edu/classes/863.13/people/Jonathan_Grinham/index.html)
+- [Matt Keeter's Capacitive Multitouch](http://fab.cba.mit.edu/classes/863.11/people/matthew.keeter/multitouch/index.html)
 
 ### 07: Electronic Input Devices
 
+Choose an output device that you have not used before. Program an Arduino to operate it.
+
 ### 08: CNC Milling
+
+Design a 3D solid and export an stl file.
+Machine a foam mold using this stl.
+Use the mold to make a composite shell.
 
 ### 09: Electronic Output Devices
 
+Choose an output device that you have not used before. Program an Arduino to operate it.
+
 ### 10: Molding & Casting
 
+Design a 3D mold, machine it, and cast material in it.
+
+[Example 1](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
+
+[Example 2](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
+
+[Example 3](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
+
 ### 11: Computer Programming
+
+Document progress on a final project.
 
 ### Final Project

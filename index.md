@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### 01: Introduction & Documentation
+### [01: Introduction & Documentation](https://kem406.github.io/PHYS-S12/01/)
 
 Create a website and sketch up an idea for a possible final project.
 

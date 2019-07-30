@@ -21,26 +21,26 @@ Feel free to discuss final project ideas with the teaching staff and with each o
 - Electronics (input and output)
 - Microcontroller programming
 
-### 02: Basic tools, procedures, and electronics
+### [02: Basic tools, procedures, and electronics](https://kem406.github.io/PHYS-S12/02/)
 
 - Cut pieces from two different materials and join them. Document this.
 - Add a fabricated component to a circuit, so that it does something (motion or light).
 - Use a multimeter to measure the behavior of your circuit. Document your work and learning.
 - Sign up for a free student Fusion 360 account with Autodesk
 
-### 03: 2D Design & Cutting
+### [03: 2D Design & Cutting](https://kem406.github.io/PHYS-S12/03/)
 
 Create a press-fit construction kit.
 
-### 04: Rapid Prototying
+### [04: Rapid Prototying](https://kem406.github.io/PHYS-S12/04/)
 
 Make and document a quick prototype of a possible final project. Integrate an electronic circuit into an object that you have fabricated.
 
-### 05: Programmable Electronics
+### [05: Programmable Electronics](https://kem406.github.io/PHYS-S12/05/)
 
 Program a microcontroller to produce an output using at least one button for input. Include a conditional statement and a for loop.
 
-### 06: 3D Design & Printing
+### [06: 3D Design & Printing](https://kem406.github.io/PHYS-S12/06/)
 
 1. Design and print a small object that could not be (easily) made by subtractive methods. Discuss pros and cons of 3D printing this object rather than using other fabrication methods.
 
@@ -52,21 +52,21 @@ Program a microcontroller to produce an output using at least one button for inp
 - [Jonathan Grinham's Capacitive Plants](http://fab.cba.mit.edu/classes/863.13/people/Jonathan_Grinham/index.html)
 - [Matt Keeter's Capacitive Multitouch](http://fab.cba.mit.edu/classes/863.11/people/matthew.keeter/multitouch/index.html)
 
-### 07: Electronic Input Devices
+### [07: Electronic Input Devices](https://kem406.github.io/PHYS-S12/07/)
 
 Choose an output device that you have not used before. Program an Arduino to operate it.
 
-### 08: CNC Milling
+### [08: CNC Milling](https://kem406.github.io/PHYS-S12/08/)
 
 Design a 3D solid and export an stl file.
 Machine a foam mold using this stl.
 Use the mold to make a composite shell.
 
-### 09: Electronic Output Devices
+### [09: Electronic Output Devices](https://kem406.github.io/PHYS-S12/09/)
 
 Choose an output device that you have not used before. Program an Arduino to operate it.
 
-### 10: Molding & Casting
+### [10: Molding & Casting](https://kem406.github.io/PHYS-S12/10/)
 
 Design a 3D mold, machine it, and cast material in it.
 
@@ -76,8 +76,8 @@ Design a 3D mold, machine it, and cast material in it.
 
 [Example 3](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
 
-### 11: Computer Programming
+### [11: Computer Programming](https://kem406.github.io/PHYS-S12/11/)
 
 Document progress on a final project.
 
-### Final Project
+### [Final Project](https://kem406.github.io/PHYS-S12/12/)

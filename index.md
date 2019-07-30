@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  "Harvard PHYS S12"
 ---
 
 ### [01: Introduction & Documentation](https://kem406.github.io/PHYS-S12/01/)

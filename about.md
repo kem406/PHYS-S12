@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /01/about/
+permalink: /about/
 ---
 Hi, I'm Ken. I'm a computer science concentrator on my way towards getting a degree at Harvard.
 

@@ -55,7 +55,7 @@ Program a microcontroller to produce an output using at least one button for inp
 
 ### [07: Electronic Input Devices](https://kem406.github.io/PHYS-S12/07/)
 
-Choose an output device that you have not used before. Program an Arduino to operate it.
+Make a sensor to measure a physical quantity with the Arduino. Calibrate your sensor. Show data in the form of a table or graph.
 
 ### [08: CNC Milling](https://kem406.github.io/PHYS-S12/08/)
 
@@ -70,12 +70,6 @@ Choose an output device that you have not used before. Program an Arduino to ope
 ### [10: Molding & Casting](https://kem406.github.io/PHYS-S12/10/)
 
 Design a 3D mold, machine it, and cast material in it.
-
-[Example 1](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
-
-[Example 2](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
-
-[Example 3](https://nathanmelenbrink.github.io/intro-dig-fab/10_casting/index.html)
 
 ### [11: Computer Programming](https://kem406.github.io/PHYS-S12/11/)
 

@@ -2,12 +2,15 @@
 layout: default
 title:  "Harvard PHYS S12"
 ---
+# Welcome
+
+This website was created to document my work in Harvard's PHYS S-12 course. The description for each assignment is given on this page. To see the work I did for each assignment, click the title of the assignment. To see the pneumatic arm, go [here](https://kem406.github.io/PHYS-S12/12/).
 
 ## [01: Introduction & Documentation](https://kem406.github.io/PHYS-S12/01/)
 
 Create a website and sketch up an idea for a possible final project.
 
-You will use this website to document your work for the rest of the semester. You are welcome to use any tools you'd like to accomplish this, but if you don't have any previous web development experience, you'll likely want to stick with the Jekyll template we covered in class. You're encouraged to use the HTML and CSS techniques we covered in class to cutomize your site -- even better if you research new techniques and make a novel website. You can also continue to update your website styling/layout for the rest of the semester. The goal for this week is to make the site functional, i.e., that you're able to use it to host your assignments in a way that others are able to find them. Please make sure your website is up and running, including your final project idea by this Thursday.
+You will use this website to document your work for the rest of the semester. You are welcome to use any tools you'd like to accomplish this, but if you don't have any previous web development experience, you'll likely want to stick with the Jekyll template we covered in class. You're encouraged to use the HTML and CSS techniques we covered in class to customize your site -- even better if you research new techniques and make a novel website. You can also continue to update your website styling/layout for the rest of the semester. The goal for this week is to make the site functional, i.e., that you're able to use it to host your assignments in a way that others are able to find them. Please make sure your website is up and running, including your final project idea by this Thursday.
 
 Your website must include:
 

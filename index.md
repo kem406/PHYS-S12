@@ -1,10 +1,12 @@
 ---
 layout: default
-title:  "Harvard PHYS S12"
+title:  "Intro to Dig Fab"
 ---
 # Welcome
 
-This website was created to document my work in Harvard's PHYS S-12 course. The description for each assignment is given on this page. To see the work I did for each assignment, click the title of the assignment. To see the pneumatic arm, go [here](https://kem406.github.io/PHYS-S12/12/).
+To see the robotic arm, go [here](https://kem406.github.io/PHYS-S12/12/).
+
+This website was created to document my work in Harvard's PHYS-S12 course. The description for each assignment is given on this page. To see the work I did for each assignment, click the title of that assignment. 
 
 ## [01: Introduction & Documentation](https://kem406.github.io/PHYS-S12/01/)
 

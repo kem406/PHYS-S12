@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-Hi, I'm Ken. I'm a computer science concentrator on my way towards getting a degree at Harvard.
+Hi, I'm Ken. I'm a computer science major on my way towards getting a degree at Harvard.
 
 My work experience has mostly been related to machining. I currently work for the Harvard physics department in Lyman lab, where I manage the after-hours of the [SEAS Instructional Machine Shop](https://www.physics.harvard.edu/resources/shop) run by Stan Cotreau and Andy DiMambro. In the past, I had a corporate headquarters job at Sears-Roebeck (before they declared bankruptcy), and I've also been involved with search and rescue work related to the Air Force.
 

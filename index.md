@@ -6,7 +6,7 @@ title:  "Intro to Dig Fab"
 
 To see the robotic arm, go [here](https://kem406.github.io/PHYS-S12/12/).
 
-This website was created to document my work in Harvard's PHYS-S12 course. The description for each assignment is given on this page. To see the work I did for each assignment, click the title of that assignment. 
+This website was created to document my work in Harvard's PHYS-S12 course. Each weekly assignment is detailed on this page and the title of each assignment contains a link to my work.
 
 ## [01: Introduction & Documentation](https://kem406.github.io/PHYS-S12/01/)
 

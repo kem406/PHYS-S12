@@ -3,10 +3,8 @@ layout: default
 title: About
 permalink: /about/
 ---
-Hi, I'm Ken. I'm a computer science major on my way towards getting a degree at Harvard.
+Hi, I'm Ken. I'm a computer science major on my way towards getting a degree at Harvard. This github repository served as my personal website for a time, but I now have my own proper website that includes my other school projects which you can view [here](http://kenmichalek.com).
 
-My work experience has mostly been related to machining. I currently work for the Harvard physics department in Lyman lab, where I manage the after-hours of the [SEAS Instructional Machine Shop](https://www.physics.harvard.edu/resources/shop) run by Stan Cotreau and Andy DiMambro. In the past, I had a corporate headquarters job at Sears-Roebeck (before they declared bankruptcy), and I've also been involved with search and rescue work related to the Air Force.
+I currently work for the Harvard physics department in both the Science Center fabrication lab (where this course takes place) and the [Physics/SEAS Instructional Machine Shop](https://www.physics.harvard.edu/resources/shop). My goal is to graduate with a strong background in topics related to robotics, from electromechanical engineering to machine learning to nanoscale systems.
 
-I am highly interested in both physics and robotics, so this class was an obvious choice. It is my goal to have a well-rounded background in robotics by the time I graduate, from engineering to machine learning to nanoscale systems.
-
-In my free time, I enjoy kayaking, playing the guitar, listening to 80s music, and reading about Babylonian astronomy.  
+Information on the PHYS S-12 course can be found [here](https://www.summer.harvard.edu/course-catalog/courses/introduction-to-digital-fabrication/34524), and information pertaining to the 2019 summer course specifically can be found [here](https://nathanmelenbrink.github.io/intro-dig-fab/about.html).  
